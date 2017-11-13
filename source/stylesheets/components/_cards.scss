@@ -49,3 +49,14 @@
 .card-link:hover {
   opacity: 0.1;
 }
+.message-name h3 {
+  font-size: 13px;
+  margin-top: 15px;
+  justify-content: center;
+}
+.message {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 1px solid rgba(220,224,244,0.4);
+}
